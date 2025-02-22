@@ -1,16 +1,31 @@
 package namegen
 
 var Adjectives = []string{
-	"wonderous",
-	"amazing",
-	"colorful",
-	"tastey",
+	"digital",
+	"neo",
+	"techno",
+	"nano",
+	"electronic",
+	"virtual",
+	"transcendent",
+	"robotic",
+	"streamlined",
+	"stellar",
+	"quantum",
+	"cyber",
 }
 
 var Nouns = []string{
-	"mountain",
-	"river",
-	"vally",
-	"home",
-	"engine",
+	"spire",
+	"minaret",
+	"bastion",
+	"tower",
+	"citadel",
+	"edifice",
+	"monolith",
+	"obelisk",
+	"stronghold",
+	"keep",
+	"vault",
+	"outpost",
 }
